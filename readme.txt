@@ -1,3 +1,5 @@
 first usered git
 second used git
-hello world
+hello world !!
+git diff readme.txt
+banbenhuitui
